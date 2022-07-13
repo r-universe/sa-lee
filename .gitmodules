@@ -8,3 +8,8 @@
 	url = https://github.com/sa-lee/liminal
 	shallow = true
 	registered = true
+[submodule "plyranges"]
+	path = plyranges
+	url = https://github.com/sa-lee/plyranges
+	shallow = true
+	registered = true
