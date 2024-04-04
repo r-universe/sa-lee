@@ -5,6 +5,3 @@
 [submodule "liminal"]
 	path = liminal
 	url = https://github.com/sa-lee/liminal
-[submodule "plyranges"]
-	path = plyranges
-	url = https://github.com/sa-lee/plyranges
